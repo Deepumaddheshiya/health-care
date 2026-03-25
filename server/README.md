@@ -1,5 +1,7 @@
 # Rural Healthcare AI Screening Platform - Backend
 
+# Made by Deepu Maddheshiya 
+
 A comprehensive backend system for rural healthcare that uses AI-powered symptom analysis, emergency detection, and hospital location services. Built with Node.js, Express, and Google's Gemini AI.
 
 ## 🌟 Features
